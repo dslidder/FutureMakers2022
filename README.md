@@ -20,3 +20,6 @@ From what I've seen today, Keras is pretty easy and straightforward- it only tak
 
 7/13 (Day 5)
 Wow, this was a giant step up from Day 4. Tensorflow wrapped up all the processes that go into creating a model in such a nice package (not literally!) that it was easy to forget how much math and conceputal understanding goes into a neural network! I struggled a lot with this notebook-- the questions themselves were fairly straightforward, but to really soak in what the optimizers do in a model, what role back propagation plays, and the exact calculations behind all of them was difficult for me. Despite this, I think I have gained an incredible amout of valuable information from today's notebook that many other programs and websites tend to gloss over.
+
+7/15 (Day 7)
+I already had an idea of how important tackling bias in machine learning was- I've seen quite a few articles in the past couple years, however it was interesting to experience the fact that even when I was aware, and trying to be unbiased, circumstances and external factors still added bias into my choices, and was reflected in the models. 
